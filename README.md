@@ -89,7 +89,7 @@ python benchmark.py
 	@article{chen2022hysteretic,
 	  title={{Hysteretic Mapping and Corridor Semantic Modeling Using Mobile LiDAR Systems}},
 	  author={Chen, Pengxin and Luo, Zhipeng and Shi, Wenzhong},
-	  journal={Submitted to ISPRS J P&RS, under review},
+	  journal={ISPRS J P&RS. Accepted, to appear},
 	  year={2022}
 	}
 
