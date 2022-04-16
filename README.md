@@ -86,15 +86,15 @@ python benchmark.py
 
 ### Citation
 
-@article{chen2022hysteretic,
-  	title={Hysteretic mapping and corridor semantic modeling using mobile LiDAR systems},
-  	author={Chen, Pengxin and Luo, Zhipeng and Shi, Wenzhong},
-  	journal={ISPRS Journal of Photogrammetry and Remote Sensing},
-  	volume={186},
-  	pages={267--284},
-  	year={2022},
-  	publisher={Elsevier}
-}
+        @article{chen2022hysteretic,
+  	             title={Hysteretic mapping and corridor semantic modeling using mobile LiDAR systems},
+  	             author={Chen, Pengxin and Luo, Zhipeng and Shi, Wenzhong},
+  	             journal={ISPRS Journal of Photogrammetry and Remote Sensing},
+  	             volume={186},
+  	             pages={267--284},
+  	             year={2022},
+  	             publisher={Elsevier}
+                }
 
 
 
